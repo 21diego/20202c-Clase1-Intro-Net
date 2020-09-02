@@ -13,13 +13,13 @@ namespace PrimeraClase20202c
             Console.WriteLine("***Sumando numeros***");
             Console.Write("Ingrese un numero: ");
             string input1 = Console.ReadLine();
-            int num1 = Convert.ToInt32(input1);
 
             Console.Write("Ingrese otro numero: ");
             string input2 = Console.ReadLine();
-            int num2 = Convert.ToInt32(input2);
 
-            Console.Write("La suma es: " + (num1 + num2));
+            int resultado = Calculadora.Sumar(input1, input2);
+
+            Console.Write("La suma es: " + resultado);
             Console.ReadKey();
         }
     }
