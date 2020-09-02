@@ -19,7 +19,7 @@ namespace PrimeraClase20202c
             string input2 = Console.ReadLine();
             int num2 = Convert.ToInt32(input2);
 
-            Console.Write("La suma es: " + num1 + num2);
+            Console.Write("La suma es: " + (num1 + num2));
             Console.ReadKey();
         }
     }
