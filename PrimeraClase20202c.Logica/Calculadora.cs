@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrimeraClase20202c
+namespace PrimeraClase20202c.Logica
 {
-    class Calculadora
+    public class Calculadora
     {
         public static int Sumar(string input1, string input2)
         {
