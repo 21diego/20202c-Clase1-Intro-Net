@@ -21,6 +21,10 @@ namespace PrimeraClase20202c
             int resultado = Calculadora.Sumar(input1, input2);
 
             Console.Write("La suma es: " + resultado);
+
+            Console.WriteLine("Ingrese texto a convertir a mayusculas:");
+            string texto1 = null;// = Console.ReadLine();
+            ManipuladorStrings.ConvertirMayusculas(texto1);
             Console.ReadKey();
         }
     }
