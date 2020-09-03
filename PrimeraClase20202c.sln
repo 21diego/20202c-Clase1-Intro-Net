@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase20202c", "Prime
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase20202c.Logica", "PrimeraClase20202c.Logica\PrimeraClase20202c.Logica.csproj", "{1B4D7108-8678-495D-B39A-10FC9D4D5326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase20202c.WinForms", "PrimeraClase20202c.WinForms\PrimeraClase20202c.WinForms.csproj", "{B678EC8B-E541-46F0-8390-C4AB50DFFA27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B4D7108-8678-495D-B39A-10FC9D4D5326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4D7108-8678-495D-B39A-10FC9D4D5326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4D7108-8678-495D-B39A-10FC9D4D5326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B678EC8B-E541-46F0-8390-C4AB50DFFA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B678EC8B-E541-46F0-8390-C4AB50DFFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B678EC8B-E541-46F0-8390-C4AB50DFFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B678EC8B-E541-46F0-8390-C4AB50DFFA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
